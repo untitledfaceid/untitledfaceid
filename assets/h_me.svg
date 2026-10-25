@@ -1,0 +1,1 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 24" width="1000" height="24"><rect x="500" y="11" width="0" height="2" rx="1" fill="#2f6bff"><animate attributeName="x" values="500;60" dur="1.4s" fill="freeze"/><animate attributeName="width" values="0;880" dur="1.4s" fill="freeze"/></rect></svg>

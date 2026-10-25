@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 64" width="1000" height="64" font-family="Segoe UI,Helvetica,Arial,sans-serif">
+<defs><linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#fff"/><stop offset="1" stop-color="#6ea8ff"/></linearGradient></defs>
+<rect x="60" y="31" width="0" height="2" rx="1" fill="#2f6bff"><animate attributeName="width" values="0;380" dur="1.2s" fill="freeze"/></rect>
+<rect x="560" y="31" width="380" height="2" rx="1" fill="#2f6bff" opacity="0"><animate attributeName="opacity" from="0" to="1" dur="1.2s" fill="freeze"/></rect>
+<circle cx="500" cy="14" r="4" fill="#4d8dff"><animate attributeName="opacity" values="1;.2;1" dur="1.6s" repeatCount="indefinite"/></circle>
+<text x="500" y="50" text-anchor="middle" font-size="34" font-weight="700" fill="url(#g)">Стек</text></svg>
